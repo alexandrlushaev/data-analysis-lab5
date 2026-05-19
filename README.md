@@ -9,3 +9,5 @@
 3. Сравнение алгоритмов SPM
 4. Предсказание следующего события
 5. Контрастные последовательности
+
+##Ссылка на датасет: https://www.kaggle.com/datasets/lakshmi25npathi/online-retail-dataset/data
